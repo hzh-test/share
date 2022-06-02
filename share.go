@@ -1,6 +1,6 @@
 package share
 
-var Ss string = "sssssssss v1.1.0"
+var Ss string = "sssssssss v1.1.1"
 
 func Sh() {
     println("shshshs")
